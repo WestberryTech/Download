@@ -6,7 +6,7 @@
 
   2. 配置KEIL工程如下图。
 
-  ![img](file:///C:\Users\Joy\AppData\Local\Temp\ksohtml6264\wps1.jpg) 
+  ![img]( https://s3.bmp.ovh/imgs/2022/03/9816c694d7d06a2c.jpg ) 
 
 ### 二、占用资源
 
@@ -28,7 +28,7 @@
 
 - 使能 USB 的 SOF 中断
 
- ![img](file:///C:\Users\Joy\AppData\Local\Temp\ksohtml6264\wps4.jpg) 
+ ![img](https://s3.bmp.ovh/imgs/2022/03/9ab0ee729b3ce8ec.jpg ) 
 
 - 在usbd_user.c里包含jmntTrim.h文件
 
