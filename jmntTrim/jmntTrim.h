@@ -19,9 +19,9 @@
 #define INR_TAIL 51500
 
 /* Register adjustment range. */
-#define ADJUST_RANG 10
+#define ADJUST_RANG 15
 /* Frequency accuracy range. us */
-#define OSC_RANG 300
+#define OSC_RANG 10
 
 
 extern void jmntTrimInit(void);
